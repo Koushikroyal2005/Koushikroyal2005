@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm koushik</h1>
+<h1 align="center">Hi 👋</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koushikroyal2005&label=Profile%20views&color=0e75b6&style=flat" alt="virajchandra51" /> </p>
 <h3 align="center">A passionate full stack developer from India</h3>
@@ -7,7 +7,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif" width="400">
 </div>
 
-- 🎓 Pursuing B.Tech. in **Computer Science and Engineering** at **NIT Raipur**
+- 🎓 Pursuing B.Tech. at **NIT Raipur**
 
 - 🔭 I’m currently working on **back-end development**
 
